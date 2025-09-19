@@ -131,20 +131,9 @@ src/
 └── auth.css            # Authentication styles
 \`\`\`
 
-## 🎨 Design System
-
-The project uses a custom design system with:
-
-- **Color Palette**: Professional dark theme with blue accents
-- **Typography**: Inter font family with consistent sizing scale
-- **Spacing**: 8px grid system for consistent layouts
-- **Components**: Reusable button, input, and card components
-- **Responsive**: Mobile-first approach with Indian user preferences
-- **Indian Context**: Colors and styling appropriate for Indian users
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here:*
 - ![Home page with search form](/public/SS-1.png)
 - ![Login/Signup pages](/public/SS-2.png)
 - ![Search results with trains](/public/SS-3.png)
@@ -175,15 +164,6 @@ npm run build
    - **Netlify**: Drag and drop the `dist` folder
    - **Firebase Hosting**: `firebase deploy`
 
-## 🧪 Testing
-
-The project includes comprehensive validation and error handling:
-
-- Authentication form validation
-- Booking form validation with Indian phone numbers
-- Network error handling
-- Loading states for better UX
-- Accessibility testing with screen readers
 
 **Built with ❤️.**
 
