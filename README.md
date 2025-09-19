@@ -145,12 +145,12 @@ The project uses a custom design system with:
 ## 📸 Screenshots
 
 *Add screenshots of your application here:*
-- Home page with search form(public/SS-1.png)
-- Login/Signup pages
-- Search results with Indian trains
-- Booking flow with seat selection
-- Payment page with INR pricing
-- Confirmation page
+- ![Home page with search form](public/SS-1.png)
+- ![Login/Signup pages](public/SS-2.png)
+- ![Search results with trains](public/SS-3.png)
+- ![Booking flow with seat selection](public/SS-4.png)
+- ![Payment page with pricing](public/SS-5.png)
+- ![Confirmation page](public/SS-6.png)
 
 ## 🔮 Future Enhancements
 
